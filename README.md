@@ -1,5 +1,5 @@
 ## yet another color converter
-
+--
 ![][github-actions-lighthouse-image]
 [![Dependencies][david-image]][david-url]
 [![Dev Dependencies][david-dev-image]][david-dev-url]
